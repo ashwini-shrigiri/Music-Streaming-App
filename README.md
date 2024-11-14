@@ -29,4 +29,4 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Koushik00-tech/Music-Streaming-WebApp.git
+   git clone https://github.com/ashwini-shrigiri/Music-Streaming-App.git
